@@ -139,7 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ExC.cpp" />
+    <ClCompile Include="ExD.cpp" />
+    <ClCompile Include="ExE.cpp" />
+    <ClCompile Include="ExF.cpp" />
+    <ClCompile Include="ExG.cpp" />
+    <ClCompile Include="ExH.cpp" />
+    <ClCompile Include="ExI.cpp" />
+    <ClCompile Include="ExJ.cpp" />
+    <ClCompile Include="ExK.cpp" />
+    <ClCompile Include="ExL.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="ExA.cpp" />
+    <ClCompile Include="ExB.cpp" />
+    <ClCompile Include="suppinfo" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
