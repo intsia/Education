@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExA()
+void OperatorsA()
 {
 	int inputNumber = 0;
 	std::cin >> inputNumber;

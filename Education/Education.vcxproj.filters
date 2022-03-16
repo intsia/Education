@@ -13,49 +13,54 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\Operators">
+      <UniqueIdentifier>{ff004201-954b-483b-9b9f-0af765dfe638}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="suppinfo">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsC.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExA.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsD.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExB.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsE.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExC.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsF.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExD.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsG.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExE.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsH.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExF.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsI.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExG.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsJ.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExH.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsK.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExI.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsL.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExJ.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsA.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExK.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="OperatorsB.cpp">
+      <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
-    <ClCompile Include="ExL.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Operators.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

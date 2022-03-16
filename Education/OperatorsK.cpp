@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExK()
+void OperatorsK()
 {
 	int h = 0, a = 0, b = 0;
 	std::cin >> h >> a >> b;

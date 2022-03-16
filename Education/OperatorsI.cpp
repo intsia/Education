@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExI()
+void OperatorsI()
 {
 	int n = 0, m = 0;
 	std::cin >> n >> m;

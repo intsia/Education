@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExC()
+void OperatorsC()
 {
 	int number = 0;
 	std::cin >> number;

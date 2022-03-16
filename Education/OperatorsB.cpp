@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExB()
+void OperatorsB()
 {
 	int v = 0;
 	int t = 0;

@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExG()
+void OperatorsG()
 {
 	const int kStartLessons = 9 * 60;
 	const int kLessonDuration = 45;

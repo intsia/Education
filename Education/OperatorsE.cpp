@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExE()
+void OperatorsE()
 {
 	int n = 0;
 	std::cin >> n;

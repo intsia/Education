@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExH()
+void OperatorsH()
 {
 	const int proportion = 100;
 	int a = 0, b = 0, n = 0;

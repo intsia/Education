@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExD()
+void OperatorsD()
 {
 	int number = 0;
 	std::cin >> number;

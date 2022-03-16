@@ -24,6 +24,7 @@
     <ProjectGuid>{39de7226-52b0-4bd1-950f-dc85e1fc1e8f}</ProjectGuid>
     <RootNamespace>Education</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Education</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,20 +140,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ExC.cpp" />
-    <ClCompile Include="ExD.cpp" />
-    <ClCompile Include="ExE.cpp" />
-    <ClCompile Include="ExF.cpp" />
-    <ClCompile Include="ExG.cpp" />
-    <ClCompile Include="ExH.cpp" />
-    <ClCompile Include="ExI.cpp" />
-    <ClCompile Include="ExJ.cpp" />
-    <ClCompile Include="ExK.cpp" />
-    <ClCompile Include="ExL.cpp" />
+    <ClCompile Include="OperatorsC.cpp" />
+    <ClCompile Include="OperatorsD.cpp" />
+    <ClCompile Include="OperatorsE.cpp" />
+    <ClCompile Include="OperatorsF.cpp" />
+    <ClCompile Include="OperatorsG.cpp" />
+    <ClCompile Include="OperatorsH.cpp" />
+    <ClCompile Include="OperatorsI.cpp" />
+    <ClCompile Include="OperatorsJ.cpp" />
+    <ClCompile Include="OperatorsK.cpp" />
+    <ClCompile Include="OperatorsL.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="ExA.cpp" />
-    <ClCompile Include="ExB.cpp" />
-    <ClCompile Include="suppinfo" />
+    <ClCompile Include="OperatorsA.cpp" />
+    <ClCompile Include="OperatorsB.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Operators.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

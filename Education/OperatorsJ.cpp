@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExJ()
+void OperatorsJ()
 {
 	int n = 0, k = 0;
 	std::cin >> n >> k;

@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExF()
+void OperatorsF()
 {
 	const int kDay = 60 * 60 * 24;
 	const int kHour = 60 * 60;

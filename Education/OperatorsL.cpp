@@ -1,6 +1,6 @@
 #include <iostream>
 
-void ExL()
+void OperatorsL()
 {
 	int num = 0;
 	std::cin >> num;
