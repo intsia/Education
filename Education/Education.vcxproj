@@ -140,6 +140,30 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArraysA.cpp" />
+    <ClCompile Include="ArraysB.cpp" />
+    <ClCompile Include="ArraysC.cpp" />
+    <ClCompile Include="ArraysD.cpp" />
+    <ClCompile Include="ArraysE.cpp" />
+    <ClCompile Include="ArraysF.cpp" />
+    <ClCompile Include="ArraysG.cpp" />
+    <ClCompile Include="CyclesA.cpp" />
+    <ClCompile Include="CyclesB.cpp" />
+    <ClCompile Include="CyclesC.cpp" />
+    <ClCompile Include="CyclesD.cpp" />
+    <ClCompile Include="CyclesE.cpp" />
+    <ClCompile Include="CyclesF.cpp" />
+    <ClCompile Include="CyclesG.cpp" />
+    <ClCompile Include="CyclesH.cpp" />
+    <ClCompile Include="CyclesI.cpp" />
+    <ClCompile Include="CyclesJ.cpp" />
+    <ClCompile Include="IfElseB.cpp" />
+    <ClCompile Include="IfElseC.cpp" />
+    <ClCompile Include="IfElseD.cpp" />
+    <ClCompile Include="IfElseE.cpp" />
+    <ClCompile Include="IfElseF.cpp" />
+    <ClCompile Include="IfElseG.cpp" />
+    <ClCompile Include="IfElseH.cpp" />
     <ClCompile Include="OperatorsC.cpp" />
     <ClCompile Include="OperatorsD.cpp" />
     <ClCompile Include="OperatorsE.cpp" />
@@ -153,8 +177,13 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="OperatorsA.cpp" />
     <ClCompile Include="OperatorsB.cpp" />
+    <ClCompile Include="IfElseA.cpp" />
+    <ClCompile Include="IfElseI.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Arrays.hpp" />
+    <ClInclude Include="Cycles.hpp" />
+    <ClInclude Include="IfElse.hpp" />
     <ClInclude Include="Operators.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,8 +1,13 @@
 #include <iostream>
-#include <assert.h> 
-#include "Operators.hpp"
+#include "Arrays.hpp"
+
+//#include "Cycles.hpp"
+//#include "IfElse.hpp" 
+//#include "Operators.hpp"
+//#include <assert.h>
+
 
 int main()
 {
-	ExL();
+	ArraysG();
 }

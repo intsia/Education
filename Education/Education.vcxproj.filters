@@ -16,6 +16,15 @@
     <Filter Include="Исходные файлы\Operators">
       <UniqueIdentifier>{ff004201-954b-483b-9b9f-0af765dfe638}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\IfElse">
+      <UniqueIdentifier>{590231fc-1bcd-4d3d-b67b-71a46e2b8dfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Cycles">
+      <UniqueIdentifier>{8b180cf0-bfc0-4e7e-b693-b70536e2a5ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Arrays">
+      <UniqueIdentifier>{2c0796aa-abc7-410f-be0a-74af19050100}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -57,9 +66,96 @@
     <ClCompile Include="OperatorsB.cpp">
       <Filter>Исходные файлы\Operators</Filter>
     </ClCompile>
+    <ClCompile Include="IfElseA.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseB.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseC.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseD.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseE.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseF.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseG.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseH.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="IfElseI.cpp">
+      <Filter>Исходные файлы\IfElse</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesA.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesB.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesC.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesD.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesE.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesF.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesG.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesH.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesI.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclesJ.cpp">
+      <Filter>Исходные файлы\Cycles</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysA.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysB.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysC.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysD.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysE.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysF.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="ArraysG.cpp">
+      <Filter>Исходные файлы\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Operators.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="IfElse.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Cycles.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrays.hpp">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
